@@ -27,7 +27,7 @@ Yes — even **after project completion**, I personally remain available for *fr
 ## ⚡ What I Do
 
 ### 💼 **Full-Stack Development**
-- PHP, Laravel, CodeIgniter  
+- PHP, Laravel, CodeIgniter, Yii or any PHP Based Framework
 - MERN Stack  
 - REST APIs, Webhooks, Integrations  
 
@@ -107,8 +107,3 @@ You can explore more of my services here:
         <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
     </a>
 </div>
-
----
-
-
-
