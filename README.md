@@ -70,7 +70,7 @@ Yes — even **after project completion**, I personally remain available for *fr
 
 ## 🧰 Tech Stack & Tools
 
-<div style="display:flex;flex-wrap:wrap;gap:10px;">
+<div style="display:flex;flex-wrap:wrap;gap:15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" alt="Laravel"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="40" />
