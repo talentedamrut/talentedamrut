@@ -1,4 +1,4 @@
-# ✨ Hi, I'm Amrut Ratnani — Full-Stack Engineer & Tech Lead
+# ✨ Hi, I'm Amrut Ratnani — Full-Stack Engineer
 
 ## 🔹 PHP (Laravel) Expert • MERN Stack Specialist • SaaS Architect  
 ### 🚀 14+ Years of Turning Ideas Into Scalable Digital Products
