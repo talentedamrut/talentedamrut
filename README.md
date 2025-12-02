@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Amrut Ratnani — Full-Stack Engineer
 
-## 🔹 PHP (Laravel) Expert • MERN Stack Specialist • SaaS Architect  
+## 🔹 AI Enthusiast • PHP Expert • MERN Stack Specialist • SaaS Architect  
 ### 🚀 14+ Years of Turning Ideas Into Scalable Digital Products
 
 I’m Amrut, a **Computer Science & Engineering graduate** having **14+ years of solid experience** in full-stack development.  
