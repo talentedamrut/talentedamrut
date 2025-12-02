@@ -3,7 +3,7 @@
 ## 🔹 PHP (Laravel) Expert • MERN Stack Specialist • SaaS Architect  
 ### 🚀 14+ Years of Turning Ideas Into Scalable Digital Products
 
-I’m Amrut, a **Computer Science & Engineering graduate** with **14+ years of solid experience** in full-stack development.  
+I’m Amrut, a **Computer Science & Engineering graduate** having **14+ years of solid experience** in full-stack development.  
 My primary specialization includes:
 
 - **PHP (Laravel, Core PHP)**  
