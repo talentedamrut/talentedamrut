@@ -6,7 +6,7 @@
 I’m Amrut, a **Computer Science & Engineering graduate** having **14+ years of solid experience** in full-stack development.  
 My primary specialization includes:
 
-- **PHP (Laravel, Core PHP)**  
+- **PHP (Laravel, Core PHP, Codeigniter, Yii or any PHP Based Framework)**  
 - **MERN Stack (MongoDB, Express, React, Node.js)**  
 - **API Engineering & Integrations**  
 - **Automation, AI Integrations, and High-Performance SaaS Solutions**
