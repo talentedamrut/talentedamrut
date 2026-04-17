@@ -112,4 +112,7 @@ You can explore more of my services here:
     <a href="https://www.fiverr.com/webheros25">
         <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
     </a>
+    <a href="https://www.upwork.com/freelancers/~012d2d6a2719b31405">
+        <img src="https://img.shields.io/badge/-upwork-14a800?logo=Upwork&logoColor=white&label=Work+with+me+on&style=for-the-badge" />
+    </a>
 </div>
