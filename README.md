@@ -1,4 +1,4 @@
-# ✨ Hi, I'm Amrut Ratnani — Full-Stack Engineer
+# ✨ Hi, I'm Amrut Ratnani — Full-Stack AI Engineer
 
 ## 🔹 AI Enthusiast • PHP Expert • MERN Stack Specialist • SaaS Architect  
 ### 🚀 14+ Years of Turning Ideas Into Scalable Digital Products
